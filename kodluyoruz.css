@@ -1,0 +1,39 @@
+.img {
+  width: 500px;
+}
+
+.navbar {
+  font-size: 20px;
+  font-style: italic;
+}
+
+.navbar a {
+  color: rgb(76, 6, 109);
+  border: #839a9a solid 3px;
+  padding: 3px;
+  background-color: aliceblue;
+  text-decoration: unset;
+}
+
+body {
+  text-align: center;
+  background-color: #d8bfd8;
+}
+
+h1,
+h3,
+h4 {
+  font-style: italic;
+}
+
+p {
+  color: rgb(77, 75, 75);
+}
+
+ul {
+  text-align: left;
+}
+
+.home-page-img {
+  height: 200px;
+}
